@@ -31,6 +31,4 @@ Enter your Initials: Initials Password Generator will ask for your initials. Typ
 
 **🛠️ Customization**
 
-By default Initials Password Generator generates a 16-character password (because length equals strength!). If you know a Python you can easily change the total_length parameter, in the code to make it as long as you want.
-
-Stay happy password generating! 🛡️
+By default Initials Password Generator generates a 16-character password. If you want then you can easily change the total_length parameter, in the code to make it as long as you want.
