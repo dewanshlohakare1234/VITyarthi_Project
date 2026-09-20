@@ -19,11 +19,11 @@ It is Unpredictable: Your initials are not just slapped at the beginning or the 
 
 You do not need to be a coding wizard to run Initials Password Generator. Just follow these steps:
 
-**Get Python:** Make sure you have Python installed on your computer.
+**1. Get Python:** Make sure you have Python installed on your computer.
 
-**Save the Code:** Copy the Python code. Save it in a file named password_generator.py.
+**2. Save the Code:** Copy the Python code. Save it in a file named password_generator.py.
 
-**Run It:** Open your terminal or command prompt navigate to where you saved the file and type:
+**3. Run It:** Open your terminal or command prompt navigate to where you saved the file and type:
 
 python password_generator.py
 
