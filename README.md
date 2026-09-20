@@ -1,5 +1,5 @@
 # VITyarthi_Project
-🔐 Initials Password Generator
+#🔐 Initials Password Generator
 
 Hello there! 👋
 
@@ -7,7 +7,7 @@ Have you ever needed a secure password but wanted it to have just a tiny persona
 
 Initials Password Generator is a lightweight Python tool that generates a highly secure randomized password while sneaking your initials into the mix. Initials Password Generator ensures your new password meets all the criteria (uppercase lowercase, numbers and symbols) without you having to bang your head against the keyboard.
 
-✨ Why use Initials Password Generator?
+**✨ Why use Initials Password Generator?**
 
 It is Personal: Your initials are hidden inside making it uniquely yours.
 
@@ -15,21 +15,21 @@ It is Secure: Initials Password Generator guarantees at one uppercase letter, on
 
 It is Unpredictable: Your initials are not just slapped at the beginning or the end—they are hidden at a spot within the password!
 
-🚀 How to use Initials Password Generator
+**🚀 How to use Initials Password Generator**
 
 You do not need to be a coding wizard to run Initials Password Generator. Just follow these steps:
 
-Get Python: Make sure you have Python installed on your computer. (If you do not you can grab it from python.org).
+**Get Python:** Make sure you have Python installed on your computer.
 
-Save the Code: Copy the Python code. Save it in a file named password_generator.py.
+**Save the Code:** Copy the Python code. Save it in a file named password_generator.py.
 
-Run It: Open your terminal or command prompt navigate to where you saved the file and type:
+**Run It:** Open your terminal or command prompt navigate to where you saved the file and type:
 
 python password_generator.py
 
 Enter your Initials: Initials Password Generator will ask for your initials. Type them in (e.g., JD) hit enter and boom! Your shiny new password is ready.
 
-🛠️ Customization
+**🛠️ Customization**
 
 By default Initials Password Generator generates a 16-character password (because length equals strength!). If you know a Python you can easily change the total_length parameter, in the code to make it as long as you want.
 
